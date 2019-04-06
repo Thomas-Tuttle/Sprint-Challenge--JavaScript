@@ -46,4 +46,4 @@ class CubeMaker2 extends CubeMaker {
   });
 
   console.log('Strech Task 1:', cube2.volume());
-console.log('Strech Task 2:', cube2.surfaceArea()); 
+  console.log('Strech Task 2:', cube2.surfaceArea()); 
